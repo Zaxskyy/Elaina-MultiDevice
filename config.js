@@ -331,7 +331,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 857-3617-8354'
+global.phn = '+62 878-7085-7446'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
